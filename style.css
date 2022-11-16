@@ -151,8 +151,8 @@ body::before {
         max-width: 80%;
         aspect-ratio: 1/1;
         height: auto;
-        right: -30%;
-        bottom: -80%;
+        right: -23%;
+        bottom: -95%;
     }
 
     body::after {
